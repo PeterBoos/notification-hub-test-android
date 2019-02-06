@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "231514672851",
+    "firebase_url": "https://azure-notification-hub-tst.firebaseio.com",
+    "project_id": "azure-notification-hub-tst",
+    "storage_bucket": "azure-notification-hub-tst.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231514672851:android:6978d433ab4598f5",
+        "android_client_info": {
+          "package_name": "com.peterboos.ahnt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231514672851-hvls95jsam1ispn800ahu4gt4i6isf14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsd9_qjhn59cbopo_QMd4qcL9Ckp5Dryg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
