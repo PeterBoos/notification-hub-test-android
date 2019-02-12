@@ -19,10 +19,17 @@
 			android:textAllCaps="true" />
 	</RelativeLayout>
 	<ImageView
-		android:src="@android:drawable/images.jpg"
+		android:src="@mipmap/images"
 		android:layout_width="fill_parent"
 		android:layout_height="wrap_content"
 		android:layout_below="@id/relativeLayout1"
 		android:id="@+id/imageView1"
 		android:paddingTop="50px" />
+	<Button
+		android:text="Button"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/imageView1"
+		android:id="@+id/button1"
+		android:layout_marginTop="50px"/>
 </RelativeLayout>
