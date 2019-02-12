@@ -18,4 +18,11 @@
 			android:textAlignment="center"
 			android:textAllCaps="true" />
 	</RelativeLayout>
+	<ImageView
+		android:src="@android:drawable/images.jpg"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/relativeLayout1"
+		android:id="@+id/imageView1"
+		android:paddingTop="50px" />
 </RelativeLayout>
